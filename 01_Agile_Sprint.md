@@ -1,10 +1,10 @@
 # Agile Sprint Log (Iteration Report)
-(For instructions see [01_Agile_Sprint_Instructions](./01_Agile_Sprint_Instructions.md))  
 
-**Project Title: The lost ninja 
-**Sprint #:**  
-**Date Range:**  
-**Prepared by: Isaiah Martinez
+
+**Project Title:** The lost ninja 
+**Sprint #:** 1  
+**Date Range:** August 26-September 2 
+**Prepared by:** Isaiah Martinez
 
 ---
 
