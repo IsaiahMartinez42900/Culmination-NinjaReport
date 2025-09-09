@@ -3,7 +3,7 @@
 
 **Project Title:** The lost ninja 
 **Sprint #:** 1  
-**Date Range:** August 26-September 2 
+**Date Range:** August 26-September 9 
 **Prepared by:** Isaiah Martinez
 
 ---
@@ -11,10 +11,10 @@
 ## Sprint Stage Checklist
 Check only the stages you actively worked on this Sprint:
 
-- [ ] Speculate / Plan  
-- [ ] Research  
+- [x] Speculate / Plan  
+- [x] Research  
 - [ ] Design  
-- [ ] Make / Produce  
+- [x] Make / Produce  
 - [ ] Publish / Present  
 - [ ] Assess  
 
@@ -22,31 +22,33 @@ Check only the stages you actively worked on this Sprint:
 
 ## 0. Review of Previous Sprint (CORE)
 - **Previous Sprint Goal:**  
-- **Achieved / Not Achieved:**  
-- **Problems or Bottlenecks Found:**  
-- **Feedback Received (peer/faculty/AI):**  
-- **Carry-over Tasks:**  
+  - First sprint 
 
 ---
 
 ## 1. Speculate / Plan (CORE)
-- **Current Sprint Goal (based on last assessment):**  
+- **Current Sprint Goal (based on last assessment):**Setup Github Repository and relearn how to apply animations in unity  
 - **Key Tasks (checklist):**  
-  - [ ]  
-  - [ ]  
+  - [ ] Setup a repo in github 
+  - [ ] Apply character animations to my character in unity 
 - **Planned Deliverables:**  
-  (Prototype, documentation, test, presentation, etc.)  
+  (Prototype, documentation, test, presentation, etc.)
+  -Demonstration in unity 
 - **Research Needed:**  
   (What questions must be answered or what knowledge must be gathered for this Sprint to succeed?)  
-
+  - How to use animator window in unity?
+  - Are the animations alligning with the desired inputs?
 ---
 
 ## 2. Active Areas (Complete only those you checked above)
 
 ### Research  
-- **Questions Investigated (from Speculate):**  
+- **Questions Investigated (from Speculate):**
+  - How to use animator window in unity?
+  - Are the animations alligning with the desired inputs? 
 - **Sources Consulted (Zotero, articles, tutorials, AI, etc.):**  
-- **Findings / Insights:**  
+- **Findings / Insights:**
+  - Lecture from Hosni's Asset development for games course
 
 ### Design  
 - **New Diagrams / Documentation:**  
@@ -54,8 +56,10 @@ Check only the stages you actively worked on this Sprint:
 - **Success Criteria:**  
 
 ### Make / Produce  
-- **Work Completed:**  
-- **Tools/Technologies Used:**  
+- **Work Completed:**
+  - Applied 1 animation(idle) so far  
+- **Tools/Technologies Used:**
+  - Unity  
 - **Evidence (links, screenshots, repo commits):**  
 
 ### Publish / Present  
@@ -65,12 +69,14 @@ Check only the stages you actively worked on this Sprint:
 ---
 
 ## 3. Assess (CORE)
-- **Successes This Sprint:**  
-- **Current Bottlenecks (skills, tools, time, clarity, etc.):**  
+- **Successes This Sprint:**
+  - Was able to apply the animations to my character 
+- **Current Bottlenecks (skills, tools, time, clarity, etc.):**
+  - Relearning how to apply imported animations   
 - **Feedback Received (peer/faculty/AI):**  
 - **Adjustments for Next Sprint:**  
   (How this assessment will guide the next Speculation/Plan.)  
-
+  - It will help me organize for my next steps for my game
 ---
 
 ## 4. Reflection (Optional, Encouraged)
@@ -81,7 +87,7 @@ Check only the stages you actively worked on this Sprint:
 ---
 
 **Sign-off:**  
-(Student signature / date)
+(Isaiah Martinez / September 9)
 
 ---
 
