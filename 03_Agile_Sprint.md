@@ -6,19 +6,20 @@
  
 
 ## 1. Retrospective (reflecting on last week)
-- What went well? I instantiated the shuriken for my ninja character  
-- What didn’t go well? In doing so, the shuriken doesn't move  
-- What can I improve next week? I'm going to fix my shuriken so that it's moving   
+- What went well? I fixed my everything I had to do with the shuriken. The cooldown, the limit, and the rotation and the movement.  
+- What didn’t go well? The shuriken throw animation that I added, doesn't sync up with the thrown shurikens 
+- What can I improve next week? I'm going to leave that minor bug for when I come back to fix all my animations but for next week I'm working on having the camera follow my ninja character.
 
 
 ## 2. Current State (Context)
 Summarize where the project stands right now (2–3 bullet points).
--I have my sprites
--I have my animations for my character
--I have my shuriken instantiated but just need to fix the code so that it moves
+-I added shuriken rotation 
+-I added my shuriken animation 
+-I added my cooldown and limits for my shuriken
 
 ## 3. User Story (Next Sprint Focus)
 Write one or two clear User Stories that define the goal of your next sprint.
+
 
 **Format:**  
 *As a [player], I want [the shuriken to work] so that [it can used on enemies].*
