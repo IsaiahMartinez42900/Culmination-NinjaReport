@@ -1,4 +1,4 @@
-Lost Ninja
+Lost Ninja  
 A 2d sidescroller game where the ninja throw shurikens to defeat its enemies
 
 This is my presentation for my developing process for my game  
