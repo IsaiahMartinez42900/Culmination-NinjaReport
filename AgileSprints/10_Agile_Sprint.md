@@ -6,9 +6,9 @@
  
 
 ## 1. Retrospective (reflecting on last week)
-- What went well? I designed the level to my game and made my enemy ninjas different colors. All by polishing my assets in photoshop and 
+- What went well? I designed the level to my game and made my enemy ninjas different colors. All by polishing my assets in photoshop
 - What didn’t go well? Everything went well
-- What can I improve next week? I'm going to make a build and fix any bugs I have left. I was thinking of adding a health state for my character as well as the enemy ninjas   
+- What can I improve next week? I'm going to make a build and fix any bugs I have left. I was thinking of adding a health state for my character as well as the enemy ninjas and a win lose state  
 
 
 ## 2. Current State (Context)
@@ -21,7 +21,7 @@ Summarize where the project stands right now (2–3 bullet points).
 Write one or two clear User Stories that define the goal of your next sprint.
 
 **Format:**  
-*As an [user], I want to [add a health state for the ninjas] so that [I can see my the ninjas health and understand when I'm close to losing or winning].*
+*As an [user], I want to [add a health state for the ninjas] so that [I can see that the ninjas have health and understand when I'm close to losing or winning].*
 
 ## 4. Acceptance Criteria (Given–When–Then)
 Define 1–3 testable conditions that prove your User Story is satisfied.
