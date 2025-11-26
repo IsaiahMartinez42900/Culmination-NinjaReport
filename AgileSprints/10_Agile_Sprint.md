@@ -8,7 +8,7 @@
 ## 1. Retrospective (reflecting on last week)
 - What went well? I designed the level to my game and made my enemy ninjas different colors. All by polishing my assets in photoshop and 
 - What didn’t go well? Everything went well
-- What can I improve next week? I'm going to make a build and fix any bugs I have left. I was thinking of adding a health bar feature for my character as well as the enemy ninjas   
+- What can I improve next week? I'm going to make a build and fix any bugs I have left. I was thinking of adding a health state for my character as well as the enemy ninjas   
 
 
 ## 2. Current State (Context)
@@ -21,7 +21,7 @@ Summarize where the project stands right now (2–3 bullet points).
 Write one or two clear User Stories that define the goal of your next sprint.
 
 **Format:**  
-*As an [user], I want to [add a health bar feature for my game] so that [I can see my the ninjas health and understand when I'm close to losing or winning].*
+*As an [user], I want to [add a health state for the ninjas] so that [I can see my the ninjas health and understand when I'm close to losing or winning].*
 
 ## 4. Acceptance Criteria (Given–When–Then)
 Define 1–3 testable conditions that prove your User Story is satisfied.
@@ -29,13 +29,13 @@ Define 1–3 testable conditions that prove your User Story is satisfied.
 **Format:**  
 *Given* [the ninjas takes damage],  
 *When* [one of them are hit],  
-*Then* [the health bar decreases on the screen].
+*Then* [the health decreases].
 
 ## 5. Definition of Done (DoD)
 Describe what it means for this sprint’s User Story to be considered complete.
 
 **Format:**  
-*The work is considered done when [add a health bar to my character and enemies].*
+*The work is considered done when [add a health state to my character and enemies].*
 
 ## 6. Blockers (as Help Requests)
 Identify problems slowing or stopping your progress, framed as help requests.
@@ -49,5 +49,5 @@ List the specific outcomes you aim to complete this week that will move you towa
 
 ## 8. Next Steps
 List the concrete, actionable tasks you will complete before the next class/report.
--Give health bar to character
--Give health bar to enemies
+-Give health state to character
+-Give health state to enemies
