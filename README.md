@@ -1,6 +1,6 @@
 Lost Ninja  
 A 2d sidescroller action game where the player plays as a ninja. In this retro style game, the player must defeat all the enemy ninjas with
-shuriken projectiles and reach its destination to win the game. The goal is to survive the ninjas through the level by uing its movement
+shuriken projectiles and reach its destination to win the game. The goal is to survive the ninjas through the level by using its movement
 strategically and shurikens and getting to the monument shrine.
 
 This is the presentation for my designing process for my game  
